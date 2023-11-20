@@ -1,3 +1,4 @@
-</main>
-</body>
+        </main>
+        <script src="/js/app.js"></script>
+    </body>
 </html>
